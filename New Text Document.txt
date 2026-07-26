@@ -5,3 +5,5 @@ second commit in test 1
 third commit in test 1
 fourth commit in test 1
 last commit in test 1
+--------------
+first commit in test 2
