@@ -8,5 +8,6 @@ last commit in test 1
 --------------
 first commit in test 2
 second commit in test 2
-third commit in test 2
-fourth commit in test 1
+third commit in test 1
+------------------------
+fourth commit in test 3
