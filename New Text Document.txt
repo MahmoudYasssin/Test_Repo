@@ -7,3 +7,4 @@ fourth commit in test 1
 last commit in test 1
 --------------
 first commit in test 2
+second commit in test 2
