@@ -13,5 +13,6 @@ public class Main {
         System.out.println("This is fourth line and third commit and second update for second branch");
         System.out.println("This is fifth line and third commit and third update for second branch");
         System.out.println("thrid:1");
+        System.out.println("second:2");
     }
 }
