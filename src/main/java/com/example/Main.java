@@ -9,5 +9,6 @@ public class Main {
 
         System.out.println("This is first line and first commit");
         System.out.println("This is second line and second commit");
+        System.out.println("This is third line and third commit and first update for second branch");
     }
 }
